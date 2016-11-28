@@ -14,3 +14,6 @@ We wanted our logo to be as creative as possible but professional at the same ti
 
 
 Our team consists of two members: Alyssa Gowan, our chief mobile software specialist, and Ashkan, our chief mobile design innovator. Alyssa organized the layout and the general functionality of the app, and Ashkan created the app idea and handled front-end design, including the logo and color scheme. Although we gave ourselves these specific titles, we collaborated on both ends of the spectrum and that's how we created such a great app.
+
+
+To open our video, drag the file into any browser you choose to use.
